@@ -80,7 +80,7 @@ If you find this project useful, please consider citing:
 ```
 @article{wu2021learning,
   title={Learning Meta-class Memory for Few-Shot Semantic Segmentation},
-  author={Wu, Zhonghua and Shi, Xiangxi and Cai, Jianfei and others},
+  author={Wu, Zhonghua and Shi, Xiangxi and Lin, Guosheng and Cai, Jianfei},
   journal={arXiv preprint arXiv:2108.02958},
   year={2021}
 }
